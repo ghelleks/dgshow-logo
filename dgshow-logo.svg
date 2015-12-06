@@ -26,7 +26,7 @@
    inkscape:export-ydpi="148.97"><metadata
      id="metadata3239"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -175,16 +175,15 @@
          height="72.952156"
          x="-338.57285"
          y="383.07483" /></flowRegion><flowPara
-       id="flowPara4143"></flowPara></flowRoot><text
+       id="flowPara4143" /></flowRoot><text
      xml:space="preserve"
      style="font-size:1136.49987793px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      id="text4164"
      sodipodi:linespacing="125%"
-     transform="matrix(1.1053825,0,0,1.1053825,-1538.5773,-906.36686)"><textPath
+     transform="matrix(1.0996199,-0.11272365,0.11272365,1.0996199,-2625.1906,733.91342)"><textPath
        xlink:href="#path5747"
-       id="textPath5753"><tspan
-   id="tspan4168"
-   style="font-variant:normal;font-stretch:normal;font-family:American Typewriter;-inkscape-font-specification:American Typewriter">NON CIRCI CONRIPUIT</tspan></textPath></text>
+       id="textPath5753"
+       style="-inkscape-font-specification:American Typewriter;font-family:American Typewriter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">NON SATURNALIA AGUNT</textPath></text>
 <path
      transform="matrix(-21.786437,-18.489794,19.217738,-22.644169,20848.395,31438.552)"
      d="m 903.48445,388.68652 a 246.91499,237.56216 0 1 1 -493.82999,0 246.91499,237.56216 0 1 1 493.82999,0 z"
@@ -199,14 +198,14 @@
      style="font-size:1128.88891602px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      id="text4249"
      sodipodi:linespacing="125%"
-     transform="matrix(0.99107077,-0.05581735,0.05581735,0.99107077,-572.75651,2561.1939)"><textPath
+     transform="matrix(0.99262317,-0.00600719,0.00600719,0.99262317,9.9370532,1832.9255)"><textPath
        xlink:href="#path5756"
-       id="textPath5758"><tspan
-   id="tspan4251"><tspan
-     id="tspan4253"
-     style="font-variant:normal;font-stretch:normal;font-family:American Typewriter;-inkscape-font-specification:American Typewriter"
-     y="-3128.804"
-     x="1372.3055">NON SIMIA</tspan></tspan></textPath></text>
+       id="textPath5758"
+       style="font-size:1250.98327637px"><tspan
+         id="tspan4253"
+         style="font-size:1250.98327637px;font-variant:normal;font-stretch:normal;font-family:American Typewriter;-inkscape-font-specification:American Typewriter"
+         y="-3128.804"
+         x="1372.3055">NON SIMIA</tspan></textPath></text>
 <path
      sodipodi:type="arc"
      style="fill:none;stroke:none"
@@ -226,7 +225,7 @@
      sodipodi:ry="332.02585"
      d="m 858.59079,374.65726 a 341.37869,332.02585 0 1 1 -682.75739,0 341.37869,332.02585 0 1 1 682.75739,0 z"
      transform="matrix(27.770979,0,0,28.55326,-396.66717,-127.46933)" /><path
-     transform="matrix(22.552971,0,0,22.716399,3352.3303,1211.9903)"
+     transform="matrix(20.520682,-9.3561786,9.4239775,20.669384,437.70599,6472.6824)"
      d="m 862.33191,411.13336 a 390.01346,387.20761 0 1 1 -780.026917,0 390.01346,387.20761 0 1 1 780.026917,0 z"
      sodipodi:ry="387.20761"
      sodipodi:rx="390.01346"
